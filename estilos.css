@@ -1,0 +1,26 @@
+body {
+    background: rgb(8, 8, 8);
+    background: linear-gradient(90deg,
+            rgb(33, 32, 32) 0%,
+            rgb(30, 29, 29) 54%,
+            rgb(42, 25, 25) 82%);
+}
+
+.img-fluid{
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
+p{
+	text-align: center;
+}
+
+.card-body {
+    background-color: aqua;
+}
+
+.card-title{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: spartan;
+}
